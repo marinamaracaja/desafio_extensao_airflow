@@ -135,7 +135,7 @@ http://localhost:8080/
 
 - Criar na aba "Admin" -> "Connections" um conector Postgree com as seguintes informações:
   - Connection Id: postgres-airflow
-  - Connction Type: Postgres
+  - Connection Type: Postgres
   - Host: host.docker.internal
   - Schema: desafio-airflow-db
   - Login: airflow
